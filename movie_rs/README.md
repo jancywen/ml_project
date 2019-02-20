@@ -2,12 +2,11 @@
 
 模拟实际情况,客户端向服务端请求电影推荐,服务端返回相应的电影推荐
 
-数据: MovieLens
+数据: [MovieLens](https://grouplens.org/datasets/movielens/)
 
 
-## 推荐算法
 
-## 协同过滤
+## 协同过滤 算法
 
 ### 基于内存的协同过滤推荐
 
